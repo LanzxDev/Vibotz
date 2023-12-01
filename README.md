@@ -9,7 +9,7 @@
 
 <h1 align="center">LanBotz - MD</h1>
 <p align="center">
-  <a href="https://github.com/LanzxDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Lan+BOT+Multi+Device;Base+ori+by+YanXiao;Recode+By+PutraModz;Give+star+and+forks+this+Repo+:D" alt="ʘᴗʘ">
+  <a href="https://github.com/LanzxDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Lan+BOT+Multi+Device;Base+ori+by+YanXiao;Recode+By+LanzxDev;Give+star+and+forks+this+Repo+:D" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
